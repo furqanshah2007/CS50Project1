@@ -1,2 +1,2 @@
-# CS50Project1
-this is my first Github project
+# CS50Project
+this is my project
